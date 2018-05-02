@@ -1,0 +1,6 @@
+c:\Users\STUDENT\source\repos\App2\Database\bin\Debug\Database.dacpac
+c:\Users\STUDENT\source\repos\App2\Database\bin\Debug\Database.dll
+c:\Users\STUDENT\source\repos\App2\Database\bin\Debug\Database.pdb
+c:\Users\STUDENT\source\repos\App2\Database\obj\Debug\Database.sqlprojResolveAssemblyReference.cache
+c:\Users\STUDENT\source\repos\App2\Database\obj\Debug\Database.dll
+c:\Users\STUDENT\source\repos\App2\Database\obj\Debug\Database.pdb
