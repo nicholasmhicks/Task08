@@ -4,3 +4,12 @@ c:\Users\STUDENT\source\repos\App2\Database\bin\Debug\Database.pdb
 c:\Users\STUDENT\source\repos\App2\Database\obj\Debug\Database.sqlprojResolveAssemblyReference.cache
 c:\Users\STUDENT\source\repos\App2\Database\obj\Debug\Database.dll
 c:\Users\STUDENT\source\repos\App2\Database\obj\Debug\Database.pdb
+C:\Users\STUDENT\Source\Repos\Task08\Database\bin\Debug\Database.dacpac
+C:\Users\STUDENT\Source\Repos\Task08\Database\bin\Debug\Database.dll
+C:\Users\STUDENT\Source\Repos\Task08\Database\bin\Debug\Database.pdb
+C:\Users\STUDENT\Source\Repos\Task08\Database\obj\Debug\Database.dll
+C:\Users\STUDENT\Source\Repos\Task08\Database\obj\Debug\Database.pdb
+C:\Users\STUDENT\source\repos\Task08\Database\obj\Debug\Model.xml
+C:\Users\STUDENT\source\repos\Task08\Database\obj\Debug\refactor.xml
+C:\Users\STUDENT\source\repos\Task08\Database\obj\Debug\postdeploy.sql
+C:\Users\STUDENT\source\repos\Task08\Database\obj\Debug\predeploy.sql
